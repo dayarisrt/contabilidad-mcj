@@ -2,4 +2,4 @@
 development:
   tasks:
     -export DEPLOYPATH=/home/tecnodaw/public_html/produccion.contabilidad-mcj/
-    - /bin/cp public/ $DEPLOYPATH
+    - /bin/cp /public/ $DEPLOYPATH
